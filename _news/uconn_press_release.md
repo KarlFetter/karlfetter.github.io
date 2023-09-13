@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Shoutout to the Biodiversity and Conservation Genomics Center from UConn Today
 date: 2023-09-13 
 inline: false
 ---
